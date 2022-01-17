@@ -1,0 +1,11 @@
+.footer{
+    background-image: url(./img/portfolio-2.jpg);
+    background-size: cover;
+    height: 25vh;
+}
+
+.buton{
+    background-color: grey;
+    box-shadow: 2px 2px 4px rgb(110, 110, 110);
+    
+}
