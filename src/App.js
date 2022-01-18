@@ -5,6 +5,7 @@ import Download from './components/download'
 import Skills from './components/skills';
 import Cards from './components/projects';
 import Footer from './components/footer';
+import Mostafa from './components/mostafa';
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
         <Download/>
         <Skills/>
         <Cards/>
+        <Mostafa/>
         <Footer/>
     </>
   );
